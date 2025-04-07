@@ -1,2 +1,2 @@
-# netflix-clone
-This is first project on giihub
+# Netflix-Clone
+This is the first project on giihub
