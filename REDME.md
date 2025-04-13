@@ -2,7 +2,7 @@
 
 A responsive Netflix landing page clone tailored for Bangladesh, featuring dynamic content sections and mobile-friendly design.
 
-![Netflix Clone Preview](assets/Images/Screenshot.png)
+![Netflix Clone Preview](assets/Images/netflix.png)
 
 ## Features ✨
 
